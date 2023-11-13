@@ -1,0 +1,7 @@
+2023-11-13T21:05:07.319171900: 100.0 was deposited. New balance: 100.0
+2023-11-13T21:28:41.403905100: 100000.0 was deposited. New balance: 100100.0
+2023-11-13T21:28:55.783136600: 1000.0 was deposited. New balance: 101100.0
+2023-11-13T21:29:09.356102500: 20.0 was withdrawn. New balance: 101080.0
+2023-11-13T21:31:28.079670200: 100.0 was deposited. New balance: 101180.0
+2023-11-13T21:31:32.527646700: 1000.0 was deposited. New balance: 102180.0
+2023-11-13T21:31:34.731105900: 1000.0 was withdrawn. New balance: 101180.0
